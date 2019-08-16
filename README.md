@@ -4,7 +4,7 @@
 
 #### Context
 
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. In this machine learning project we conducted analysis to recognize fraudulent credit card transactions.In anomaly detection, the local outlier factor (LOF) algorithm, and isolation forest algorithm were used. Other libraries used: Pandas, Sklearn, Seaborn, and Matplotlib. 
 
 #### Content
 
